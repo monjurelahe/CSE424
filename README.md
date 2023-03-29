@@ -1,21 +1,17 @@
-# CSE424
-Submission1
-Overleaf link with edit access to ST, RA and my gmail.
-https://www.overleaf.com/project/....
-
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://www.youtube.com/watch?v=n1Ef06os7T0
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/11L7s1ryqLI2DIoxmZJyQExXCXBoDdnExlnMEAK2YuIY/edit?usp=sharing
 
-Project title:
-NLP using ANN
+Paper title:
+Iris localization based on integro-differential operator for unconstrained infrared iris images  
+
+Link to the paper:
+https://ieeexplore.ieee.org/document/7375040
 
 Group Number:
-22
+3
 
-Group Members:
-21141059 Taseen Azam Khan
-21101149 Jubayer Ishfaq Rafid
+Individual Submission:
 23141076 Md. Monjur E Elahe
