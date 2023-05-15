@@ -2,7 +2,7 @@ Paper title:
 Deep Dive into Iris Texture-Based Ethnicity Classification: Approaches, Datasets and Performance
 
 Link to unlisted YouTube video:
-https://youtu.be/87X77mcIZu4 
+https://youtu.be/F6mJ-bRPlcw
 
 Overleaf link:
 https://www.overleaf.com/read/qmxcqdhjyfqc
